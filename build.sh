@@ -46,4 +46,4 @@ cp ${OUT_DIR}/arch/arm/boot/zImage  ${KERNEL_DIR}/arch/arm/boot/zImage
 BUILD_END=$(date +"%s")
 DIFF=$(($BUILD_END - $BUILD_START))
 echo -e "$yellow Build completed in $(($DIFF / 60)) minute(s) and $(($DIFF % 60)) seconds.$nocol"
-echo -e "$yellow Enjoy Kernel build.$nocol"
+echo -e "$yellow Enjoy Kernel build 3.10.54 Lenovo A5000.$nocol"
