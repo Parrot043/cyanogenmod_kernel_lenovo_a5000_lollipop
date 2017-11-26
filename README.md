@@ -32,5 +32,3 @@ Camera  | 5MPx
 16) Front Camera
 17) Works doubletap2wake
 18) Works sweep2wake
-19) Alps_rev2_defconfig doubletap2wake/sweep2wake
-20) Alps_defconfig no doubletap2wake/sweep2wake
