@@ -12,7 +12,7 @@ export JAVA_HOME=/usr/lib/jvm/java-7-oracle
 export USE_CCACHE=1
 export ARCH=arm
 export SUBARCH=arm
-export KBUILD_BUILD_USER=xcore142
+export KBUILD_BUILD_USER=bulkin042
 export KBUILD_BUILD_HOST=github
 export TARGET_BUILD_VARIANT=adder
 
