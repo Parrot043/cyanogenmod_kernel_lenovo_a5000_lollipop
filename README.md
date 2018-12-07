@@ -1,4 +1,4 @@
-## Lenovo A5000 Kernel Tree for (5.0.2, 3.10.54)           
+## Lenovo A5000 Kernel Tree for (5.0.2, 3.10.108)           
 ![Lenovo A5000](http://www.vymenaskla.sk/fotky15094/fotos/_vyr_487pic01.jpg)
 Unofficial codename - adder
 
